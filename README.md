@@ -34,7 +34,7 @@ It measures distance, acceleration, projectile motion, freefall, and even gravit
 ---
 
 ## 📸 Demo
-*(Insert your GIFs, images, or videos here of Newton’s Apple in action. Preferably something exploding.)*  
+![Demo](demo.gif) 
 
 ---
 
