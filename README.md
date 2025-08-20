@@ -25,6 +25,10 @@ It measures distance, acceleration, projectile motion, freefall, and even gravit
 
 ---
 
+## 🛠️ Circuit-Diagram
+![circuit](circuit-diagram.jpg) 
+---
+
 ## ⚡ How It Works
 1. ESP8266 collects sensor data.  
 2. Data is plotted in a UI (graphs = instant science).  
