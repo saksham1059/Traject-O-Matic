@@ -1,72 +1,79 @@
-# Newton's Apple 🍏
+# Traject-O-Matic 🎯  
+*"Because throwing things is science, if you measure it."* – GLaDOS  
+*"Ah yes, another human invention. A glorified rock thrower with Wi-Fi."* – GLaDOS  
 
-> *"Oh look, humans reinvented gravity… again. How original."* – GLaDOS
+---
 
-Newton’s Apple is a physics measurement tool powered by **ESP8266**, **ultrasonic sensor**, **MPU6050 (accelerometer + gyroscope)**, and a **light sensor**.  
-It measures distance, acceleration, projectile motion, freefall, and even gravity itself – you know, the thing that’s been ruining your dreams of flight since forever.  
+## 🌀 About
+Traject-O-Matic is a physics measurement tool powered by **ESP8266**, **ultrasonic sensor**, **MPU6050 (accelerometer + gyroscope)**, and a **light sensor**.  
+It calculates distance, acceleration, projectile motion, freefall, and gravity – in case you forgot the universe already does that for free.  
 
 ---
 
 ## ✨ Features
 - 📏 **Distance Measurement** – Ultrasonic sensor: because rulers are too mainstream.  
-- 🌀 **Acceleration & Gyroscope** – MPU6050: tracks your every clumsy move.  
-- 🌌 **Projectile Motion & Freefall** – Yes, throw it. Don’t worry… it *might* survive.  
-- 💡 **Light Sensor** – Detects brightness. Unlike you.  
-- 📊 **Graphical UI** – Because raw numbers are boring.  
+- 🌀 **Acceleration & Gyroscope** – MPU6050: records every wobble of your shaky hands.  
+- 🌌 **Projectile Motion & Freefall** – Yes, you *are* encouraged to throw it. Survival not guaranteed.  
+- 💡 **Light Sensor** – Measures brightness. Unlike you.  
+- 📊 **Graphical UI** – Converts boring numbers into pretty squiggles.  
 
 ---
 
 ## 🛠️ Materials Used
-- ESP8266 (the brain 🧠 – although "brain" is a generous word)  
-- Ultrasonic Sensor (for distance)  
-- MPU6050 (accelerometer + gyroscope)  
-- Light Sensor (to make it feel important)  
-- A UI for data plotting (so it looks cooler than it actually is)  
+- **ESP8266** – the brain 🧠 (though “brain” is generous).  
+- **Ultrasonic Sensor** – measures distance without you walking. Lazy.  
+- **MPU6050** – detects motion and silently judges it.  
+- **Light Sensor** – included to look important.  
+- **UI for plotting** – so your project feels cooler than it actually is.  
 
 ---
 
-## 🛠️ Circuit-Diagram
-![circuit](circuit-diagram.jpg) 
+## 🔌 Circuit-Diagram
+![circuit](circuit-diagram.jpg)  
+*(Wires everywhere. Truly the art of chaos harnessed for science.)*  
+
 ---
 
 ## ⚡ How It Works
 1. ESP8266 collects sensor data.  
-2. Data is plotted in a UI (graphs = instant science).  
-3. You throw the device, and it measures gravity, freefall, and projectile motion.  
-4. If it breaks… congratulations, you’ve discovered fragility.  
+2. Data is sent to a UI, where graphs pretend to make you smarter.  
+3. You launch the device like a medieval siege weapon.  
+4. If it survives, you get data. If it doesn’t… you get experience points.  
 
 ---
 
 ## 📸 Demo
-![Demo](demo.gif) 
+![Demo](demo.gif)  
+*(Yes, this is the moment you realize your project looks way cooler in GIFs.)*  
 
 ---
 
 ## 🤖 Future Plans
-- Add more sensors, because why stop now?  
-- Cloud logging, so you can waste storage on your terrible throws.  
-- Maybe AI integration… so it can laugh at you in real time.  
+- Add more sensors: because overcomplication is fun.  
+- Cloud logging: so your bad throws are immortalized forever.  
+- AI integration: device will roast you in real time while recording data.  
 
 ---
 
 ## 🧪 Utilities
-- Learn about **gravity** without dropping fruit on your head.  
-- Demonstrate **motion, acceleration, and freefall** like a proper mad scientist.  
-- Impress teachers, confuse friends, and terrify apples everywhere.  
+- Learn about **gravity** without risking concussions from falling apples.  
+- Demonstrate **motion, acceleration, and freefall** without renting NASA equipment.  
+- Impress teachers, confuse classmates, and mildly entertain yourself.  
 
 ---
 
 ## 🪦 Conclusion
-Congratulations. You built Newton’s Apple.  
+Congratulations, you built **Traject-O-Matic**.  
 You can now:  
 - Measure gravity.  
 - Plot projectile motion.  
-- And drop things in the name of science.  
+- And test the limits of physics *and* hardware durability.  
 
-*"I suppose this counts as progress. For you, anyway."* – GLaDOS
+*"Truly groundbreaking. Almost as groundbreaking as when the device hits the floor."* – GLaDOS  
 
 ---
 
 ## 📜 License
 MIT License.  
-Feel free to copy, modify, or throw it off a roof. Just don’t sue me when gravity wins.  
+Copy it. Modify it. Throw it off a balcony.  
+Just don’t sue me when gravity does what gravity always does.  
